@@ -488,3 +488,193 @@ http://stream4.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
 
 #EXTINF:0,group-title="Malaysia",BERNAMA NEWS CHANNEL
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+
+
+#EXTINF:0,group-title="Jepang",NHK WORLD PREMIUM (OPT.1)
+http://122.155.180.8:5021/live/139
+
+#EXTINF:0,group-title="Jepang",KANTO - NHK G
+http://122.155.180.8:5021/live/309
+
+#EXTINF:0,group-title="Jepang",KANTO - NHK Eテレ
+http://122.155.180.8:5021/live/310
+
+#EXTINF:0,group-title="Jepang",KANTO - NIPPON TV
+http://122.155.180.8:5021/live/312
+
+#EXTINF:0,group-title="Jepang",KANTO - TV ASAHI
+http://122.155.180.8:5021/live/313
+
+#EXTINF:0,group-title="Jepang",KANTO - FUJI TV
+http://122.155.180.8:5021/live/316
+
+#EXTINF:0,group-title="Jepang",KANTO - TBS
+http://122.155.180.8:5021/live/314
+
+#EXTINF:0,group-title="Jepang",KANTO - TV TOKYO
+http://122.155.180.8:5021/live/315
+
+#EXTINF:0,group-title="Jepang",KANTO - TOKYO MX
+http://122.155.180.8:5021/live/311
+
+#EXTINF:0,group-title="Jepang",KANSAI - NHK G
+http://122.155.180.8:5021/live/317
+
+#EXTINF:0,group-title="Jepang",KANSAI - NHK Eテレ
+http://122.155.180.8:5021/live/318
+
+#EXTINF:0,group-title="Jepang",KANSAI - ABC テレビ
+http://122.155.180.8:5021/live/321
+
+#EXTINF:0,group-title="Jepang",KANSAI - KANSAI TV
+http://122.155.180.8:5021/live/323
+
+#EXTINF:0,group-title="Jepang",KANSAI - TVO
+http://122.155.180.8:5021/live/322
+
+#EXTINF:0,group-title="Jepang",KANSAI - YTV
+http://122.155.180.8:5021/live/324
+
+#EXTINF:0,group-title="Jepang",KANSAI - SUN
+http://122.155.180.8:5021/live/320
+
+#EXTINF:0,group-title="Jepang",KANSAI - MBS
+http://122.155.180.8:5021/live/319
+
+#EXTINF:0,group-title="Jepang",NHK BS1 (OPT.1)
+http://122.155.180.8:5021/live/301
+
+#EXTINF:0,group-title="Jepang",NHK BS PREMIUM (OPT.1)
+http://122.155.180.8:5021/live/303
+
+#EXTINF:0,group-title="Jepang",BS NTV (OPT.1)
+http://122.155.180.8:5021/live/304
+
+#EXTINF:0,group-title="Jepang",NTV G+
+http://122.155.180.8:5021/live/207
+
+#EXTINF:0,group-title="Jepang",NTV PLUS
+http://122.155.180.8:5021/live/208
+
+#EXTINF:0,group-title="Jepang",NTV NEWS 24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:0,group-title="Jepang",BS ASAHI (OPT.1)
+http://122.155.180.8:5021/live/308
+
+#EXTINF:0,group-title="Jepang",TV ASAHI 1
+http://122.155.180.8:5021/live/223
+
+#EXTINF:0,group-title="Jepang",TV ASAHI 2
+http://122.155.180.8:5021/live/217
+
+#EXTINF:0,group-title="Jepang",BS FUJI (OPT.1)
+http://122.155.180.8:5021/live/307
+
+#EXTINF:0,group-title="Jepang",FUJI TV ONE
+http://122.155.180.8:5021/live/212
+
+#EXTINF:0,group-title="Jepang",FUJI TV NEXT
+http://122.155.180.8:5021/live/54
+
+#EXTINF:0,group-title="Jepang",BS-TBS (OPT.1)
+http://122.155.180.8:5021/live/305
+
+#EXTINF:0,group-title="Jepang",TBS 1
+http://122.155.180.8:5021/live/221
+
+#EXTINF:0,group-title="Jepang",TBS NEWSBIRD
+http://122.155.180.8:5021/live/220
+
+#EXTINF:0,group-title="Jepang",BS JAPAN (OPT.1)
+http://122.155.180.8:5021/live/306
+
+#EXTINF:0,group-title="Jepang",BS TWELLEV
+http://122.155.180.8:5021/live/302
+
+#EXTINF:0,group-title="Jepang",MTV JAPAN
+http://122.155.180.8:5021/live/52
+
+#EXTINF:0,group-title="Jepang",SPACE SHOWER
+http://122.155.180.8:5021/live/51
+
+#EXTINF:0,group-title="Jepang",MUSIC JAPAN
+http://122.155.180.8:5021/live/495
+
+#EXTINF:0,group-title="Jepang",NIHON EIGA (日本映画)
+http://122.155.180.8:5021/live/213
+
+#EXTINF:0,group-title="Jepang",FAMILY GEKIJO (家族劇場)
+http://122.155.180.8:5021/live/493
+
+#EXTINF:0,group-title="Jepang",MOVIE PLUS
+http://122.155.180.8:5021/live/497
+
+#EXTINF:0,group-title="Jepang",STAR 1
+http://122.155.180.8:5021/live/326
+
+#EXTINF:0,group-title="Jepang",STAR 2
+http://122.155.180.8:5021/live/191
+
+#EXTINF:0,group-title="Jepang",STAR 3
+http://122.155.180.8:5021/live/193
+
+#EXTINF:0,group-title="Jepang",WOWOW ライブ (LIVE)
+http://122.155.180.8:5021/live/205
+
+#EXTINF:0,group-title="Jepang",WOWOW プライム (PRIME)
+http://122.155.180.8:5021/live/325
+
+#EXTINF:0,group-title="Jepang",シネフィル WOWOW (CINEFIL WOWOW)
+http://122.155.180.8:5021/live/209
+
+#EXTINF:0,group-title="Jepang",J-SPORTS 1
+http://122.155.180.8:5021/live/415
+
+#EXTINF:0,group-title="Jepang",J-SPORTS 2
+http://122.155.180.8:5021/live/416
+
+#EXTINF:0,group-title="Jepang",J-SPORTS 3
+http://122.155.180.8:5021/live/410
+
+#EXTINF:0,group-title="Jepang",J-SPORTS 4
+http://122.155.180.8:5021/live/411
+
+#EXTINF:0,group-title="Jepang",EX SPORTS
+http://122.155.180.8:5021/live/414
+
+#EXTINF:0,group-title="Jepang",GAORA
+http://122.155.180.8:5021/live/413
+
+#01
+http://122.155.180.8:5021/live/409
+
+#EXTINF:0,group-title="Jepang",GREEN
+http://122.155.180.8:5021/live/412
+
+#EXTINF:0,group-title="Jepang",TSURI VISION
+http://122.155.180.8:5021/live/55
+
+#EXTINF:0,group-title="Jepang",FIGHTING SAMURAI
+http://122.155.180.8:5021/live/408
+
+#EXTINF:0,group-title="Jepang",SKY A SPORTS
+http://122.155.180.8:5021/live/210
+
+#EXTINF:0,group-title="Jepang",FOX SPORTS ENTERTAINMENT
+http://122.155.180.8:5021/live/57
+
+#EXTINF:0,group-title="Jepang",KBS WORLD JAPAN
+http://122.155.180.8:5021/live/216
+
+#EXTINF:0,group-title="Jepang",KIDS CHANNEL
+http://122.155.180.8:5021/live/494
+
+#EXTINF:0,group-title="Jepang",DISCOVERY CHANNEL
+http://122.155.180.8:5021/live/496
+
+#EXTINF:0,group-title="Jepang",HISTORY
+http://122.155.180.8:5021/live/219
+
+#EXTINF:0,group-title="Jepang",BS SKY PERFECT
+http://122.155.180.8:5021/live/58
