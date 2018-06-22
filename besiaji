@@ -4,7 +4,6 @@
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
 
 #EXTINF:0, group-title="Lokal TV",RCTI
-https://stream.sindonews.net/live/rctioke.m3u8
 https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:0, group-title="Lokal TV",MNC TV
@@ -38,56 +37,22 @@ http://rr2.dens.tv/s/s06/index2.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:0, group-title="Lokal TV",ANTV
-http://rr2.dens.tv/s/s07/index1.m3u8
+http://rr2.dens.tv/s/s07/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",RTV
-http://rr2.dens.tv/s/s12/index1.m3u8
+http://rr2.dens.tv/s/s12/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",KOMPAS TV
 http://rr2.dens.tv/s/s09/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://rr2.dens.tv/s/s11/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",ANTARA TV
 http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
 
 #EXTINF:0, group-title="Lokal TV",JTV
 http://122.248.32.234:1935/ch2/myStream/live.m3u8
-
-#EXTINF:0, group-title="Lokal TV",INTV
-http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",BIOS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",ADITV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",JPM
-http://122.248.32.234:1935/jpm/myStream/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",JAWAPOS
-http://122.248.32.234:1935/ch6/myStream/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",DUTA
-http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",Tabalong
-http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",INFO FREESAT TV
-http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",DTV
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",KITANESIA
-http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
-
-#EXTINF:0, group-title="Lokal TV",DC7
-http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
-
 
 
 #Movies
@@ -179,10 +144,7 @@ http://rr2.dens.tv/s/s42/index2.m3u8
 http://rr.dens.tv/h/h07/index2.m3u8
 
 #EXTINF:0,group-title="Entertainment",SBS-IN HD
-http://rr1.dens.tv/h/h28/index2.m3u8
-
-#EXTINF:0, group-title="Entertainment",NHK WORLD JAPAN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+http://rr.dens.tv/h/h28/index2.m3u8
 
 #EXTINF:0, group-title="Entertainment",TIC
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
@@ -220,15 +182,6 @@ http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Documentary",RT DOCUMENTARY
 https://secure-streams.akamaized.net/rt-doc/index.m3u8
 
-#EXTINF:0, group-title="Documentary",History 2
-http://93.87.85.10/PLTV/88888888/224/3221226671/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002635%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0, group-title="Documentary",VIASAT History
-http://93.87.85.10/PLTV/88888888/224/3221226592/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGYPXMJYZGhCSdJ8Wg4wrz8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001817%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0, group-title="Documentary",VIASAT Explore
-http://93.87.85.10/PLTV/88888888/224/3221226593/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001819%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0, group-title="Documentary",VIASAT Nature
-http://93.87.85.10/PLTV/88888888/224/3221226758/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzCksRPbsZVQm90cMCOnelv0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001818%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
- 
 
 
 #News
@@ -244,6 +197,9 @@ http://149.56.26.63:1935/fxnews/myStream/chunklist_w943592486.m3u8
 
 #EXTINF:0, group-title="News",FOX BUSINESS
 http://149.56.26.63:1935/foxbus/myStream/playlist.m3u8
+
+#EXTINF:0, group-title="Entertainment",NHK WORLD JAPAN
+http://rr.dens.tv/h/h23/index2.m3u8
 
 #EXTINF:0, group-title="News",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -444,8 +400,6 @@ http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
 http://rr2.dens.tv/s/s41/index.m3u8
 
 
-
-
 #Lifestyle
 #EXTINF:0, group-title="Lifestyle",BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
@@ -472,219 +426,3 @@ http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
 
 #EXTINF:0, group-title="Music",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
-
-
-#Astro
-#EXTINF:0,group-title="Malaysia",RTM TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:0,group-title="Malaysia",RTM TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:0,group-title="Malaysia",RTM TV OKEY
-http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:0,group-title="Malaysia",ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-
-#EXTINF:0,group-title="Malaysia",ASTRO GO SHOP
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
-
-#EXTINF:0,group-title="Malaysia",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:0,group-title="Malaysia",MARA TV
-http://stream4.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
-
-#EXTINF:0,group-title="Malaysia",BERNAMA NEWS CHANNEL
-http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-
-
-#EXTINF:0,group-title="Jepang",NHK WORLD PREMIUM (OPT.1)
-http://122.155.180.8:5021/live/139
-
-#EXTINF:0,group-title="Jepang",KANTO - NHK G
-http://122.155.180.8:5021/live/309
-
-#EXTINF:0,group-title="Jepang",KANTO - NHK Eテレ
-http://122.155.180.8:5021/live/310
-
-#EXTINF:0,group-title="Jepang",KANTO - NIPPON TV
-http://122.155.180.8:5021/live/312
-
-#EXTINF:0,group-title="Jepang",KANTO - TV ASAHI
-http://122.155.180.8:5021/live/313
-
-#EXTINF:0,group-title="Jepang",KANTO - FUJI TV
-http://122.155.180.8:5021/live/316
-
-#EXTINF:0,group-title="Jepang",KANTO - TBS
-http://122.155.180.8:5021/live/314
-
-#EXTINF:0,group-title="Jepang",KANTO - TV TOKYO
-http://122.155.180.8:5021/live/315
-
-#EXTINF:0,group-title="Jepang",KANTO - TOKYO MX
-http://122.155.180.8:5021/live/311
-
-#EXTINF:0,group-title="Jepang",KANSAI - NHK G
-http://122.155.180.8:5021/live/317
-
-#EXTINF:0,group-title="Jepang",KANSAI - NHK Eテレ
-http://122.155.180.8:5021/live/318
-
-#EXTINF:0,group-title="Jepang",KANSAI - ABC テレビ
-http://122.155.180.8:5021/live/321
-
-#EXTINF:0,group-title="Jepang",KANSAI - KANSAI TV
-http://122.155.180.8:5021/live/323
-
-#EXTINF:0,group-title="Jepang",KANSAI - TVO
-http://122.155.180.8:5021/live/322
-
-#EXTINF:0,group-title="Jepang",KANSAI - YTV
-http://122.155.180.8:5021/live/324
-
-#EXTINF:0,group-title="Jepang",KANSAI - SUN
-http://122.155.180.8:5021/live/320
-
-#EXTINF:0,group-title="Jepang",KANSAI - MBS
-http://122.155.180.8:5021/live/319
-
-#EXTINF:0,group-title="Jepang",NHK BS1 (OPT.1)
-http://122.155.180.8:5021/live/301
-
-#EXTINF:0,group-title="Jepang",NHK BS PREMIUM (OPT.1)
-http://122.155.180.8:5021/live/303
-
-#EXTINF:0,group-title="Jepang",BS NTV (OPT.1)
-http://122.155.180.8:5021/live/304
-
-#EXTINF:0,group-title="Jepang",NTV G+
-http://122.155.180.8:5021/live/207
-
-#EXTINF:0,group-title="Jepang",NTV PLUS
-http://122.155.180.8:5021/live/208
-
-#EXTINF:0,group-title="Jepang",NTV NEWS 24
-http://www.news24.jp/livestream/index.m3u8
-
-#EXTINF:0,group-title="Jepang",BS ASAHI (OPT.1)
-http://122.155.180.8:5021/live/308
-
-#EXTINF:0,group-title="Jepang",TV ASAHI 1
-http://122.155.180.8:5021/live/223
-
-#EXTINF:0,group-title="Jepang",TV ASAHI 2
-http://122.155.180.8:5021/live/217
-
-#EXTINF:0,group-title="Jepang",BS FUJI (OPT.1)
-http://122.155.180.8:5021/live/307
-
-#EXTINF:0,group-title="Jepang",FUJI TV ONE
-http://122.155.180.8:5021/live/212
-
-#EXTINF:0,group-title="Jepang",FUJI TV NEXT
-http://122.155.180.8:5021/live/54
-
-#EXTINF:0,group-title="Jepang",BS-TBS (OPT.1)
-http://122.155.180.8:5021/live/305
-
-#EXTINF:0,group-title="Jepang",TBS 1
-http://122.155.180.8:5021/live/221
-
-#EXTINF:0,group-title="Jepang",TBS NEWSBIRD
-http://122.155.180.8:5021/live/220
-
-#EXTINF:0,group-title="Jepang",BS JAPAN (OPT.1)
-http://122.155.180.8:5021/live/306
-
-#EXTINF:0,group-title="Jepang",BS TWELLEV
-http://122.155.180.8:5021/live/302
-
-#EXTINF:0,group-title="Jepang",MTV JAPAN
-http://122.155.180.8:5021/live/52
-
-#EXTINF:0,group-title="Jepang",SPACE SHOWER
-http://122.155.180.8:5021/live/51
-
-#EXTINF:0,group-title="Jepang",MUSIC JAPAN
-http://122.155.180.8:5021/live/495
-
-#EXTINF:0,group-title="Jepang",NIHON EIGA (日本映画)
-http://122.155.180.8:5021/live/213
-
-#EXTINF:0,group-title="Jepang",FAMILY GEKIJO (家族劇場)
-http://122.155.180.8:5021/live/493
-
-#EXTINF:0,group-title="Jepang",MOVIE PLUS
-http://122.155.180.8:5021/live/497
-
-#EXTINF:0,group-title="Jepang",STAR 1
-http://122.155.180.8:5021/live/326
-
-#EXTINF:0,group-title="Jepang",STAR 2
-http://122.155.180.8:5021/live/191
-
-#EXTINF:0,group-title="Jepang",STAR 3
-http://122.155.180.8:5021/live/193
-
-#EXTINF:0,group-title="Jepang",WOWOW ライブ (LIVE)
-http://122.155.180.8:5021/live/205
-
-#EXTINF:0,group-title="Jepang",WOWOW プライム (PRIME)
-http://122.155.180.8:5021/live/325
-
-#EXTINF:0,group-title="Jepang",シネフィル WOWOW (CINEFIL WOWOW)
-http://122.155.180.8:5021/live/209
-
-#EXTINF:0,group-title="Jepang",J-SPORTS 1
-http://122.155.180.8:5021/live/415
-
-#EXTINF:0,group-title="Jepang",J-SPORTS 2
-http://122.155.180.8:5021/live/416
-
-#EXTINF:0,group-title="Jepang",J-SPORTS 3
-http://122.155.180.8:5021/live/410
-
-#EXTINF:0,group-title="Jepang",J-SPORTS 4
-http://122.155.180.8:5021/live/411
-
-#EXTINF:0,group-title="Jepang",EX SPORTS
-http://122.155.180.8:5021/live/414
-
-#EXTINF:0,group-title="Jepang",GAORA
-http://122.155.180.8:5021/live/413
-
-#01
-http://122.155.180.8:5021/live/409
-
-#EXTINF:0,group-title="Jepang",GREEN
-http://122.155.180.8:5021/live/412
-
-#EXTINF:0,group-title="Jepang",TSURI VISION
-http://122.155.180.8:5021/live/55
-
-#EXTINF:0,group-title="Jepang",FIGHTING SAMURAI
-http://122.155.180.8:5021/live/408
-
-#EXTINF:0,group-title="Jepang",SKY A SPORTS
-http://122.155.180.8:5021/live/210
-
-#EXTINF:0,group-title="Jepang",FOX SPORTS ENTERTAINMENT
-http://122.155.180.8:5021/live/57
-
-#EXTINF:0,group-title="Jepang",KBS WORLD JAPAN
-http://122.155.180.8:5021/live/216
-
-#EXTINF:0,group-title="Jepang",KIDS CHANNEL
-http://122.155.180.8:5021/live/494
-
-#EXTINF:0,group-title="Jepang",DISCOVERY CHANNEL
-http://122.155.180.8:5021/live/496
-
-#EXTINF:0,group-title="Jepang",HISTORY
-http://122.155.180.8:5021/live/219
-
-#EXTINF:0,group-title="Jepang",BS SKY PERFECT
-http://122.155.180.8:5021/live/58
